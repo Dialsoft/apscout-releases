@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "published": "2026-11-01",
-  "notes": "• Site survey: set the floor-plan scale in feet, continuous Walk mode, and a survey goal (Voice, Tablets & scanners, Business data, Basic/guest) with a Pass / fail map.\n• New map layers: Pass / fail, Backup AP (2nd strongest), Ping to gateway.\n• Best practices tab: checks channels, widths, SSID count, fast roaming (802.11r/k/v), security, PMF, look-alike networks, and (with UniFi/Meraki connected) power, minimum data rates, guest isolation, firmware and offline APs. Each item explains why it matters and how to fix it.\n• Client report adds survey results with pass/fail maps for every floor, plus the best-practice review.\n• Fix: a floor plan loaded on the 2nd+ floor no longer replaces the first floor's plan.",
+  "notes": "• New 🔄 Check for updates button in the title bar: click to check GitHub right now. It spins while checking, shows a green dot when a new version is ready, and its tooltip shows your version, what's new and when it last checked.\n\n• Site survey: set the floor-plan scale in feet, continuous Walk mode, and a survey goal (Voice, Tablets & scanners, Business data, Basic/guest) with a Pass / fail map.\n• New map layers: Pass / fail, Backup AP (2nd strongest), Ping to gateway.\n• Best practices tab: checks channels, widths, SSID count, fast roaming (802.11r/k/v), security, PMF, look-alike networks, and (with UniFi/Meraki connected) power, minimum data rates, guest isolation, firmware and offline APs. Each item explains why it matters and how to fix it.\n• Client report adds survey results with pass/fail maps for every floor, plus the best-practice review.\n• Fix: a floor plan loaded on the 2nd+ floor no longer replaces the first floor's plan.",
   "exe": "https://raw.githubusercontent.com/Dialsoft/apscout-releases/main/APScout.exe",
   "sha256": "https://raw.githubusercontent.com/Dialsoft/apscout-releases/main/APScout.exe.sha256",
-  "size": 11620864
+  "size": 11623936
 }

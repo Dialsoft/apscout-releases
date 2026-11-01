@@ -4,13 +4,17 @@ Wi-Fi access point finder and troubleshooting tool for Windows, by Dialsoft LLC 
 
 ## Download
 
-**[⬇ Download AP Scout (latest)](https://github.com/Dialsoft/apscout-releases/raw/main/APScout.exe)** — current version: **2.2.0**
+**[⬇ Download AP Scout (latest)](https://github.com/Dialsoft/apscout-releases/raw/main/APScout.exe)** — current version: **2.2.1**
 
 Run it from a folder you can write to (Desktop, Downloads, or `C:\Tools`), not Program Files, so it can update itself.
 
 Once installed, AP Scout checks this page every 6 hours and offers new versions automatically. Each update is verified against `APScout.exe.sha256` before it installs.
 
-## What's new in 2.2.0
+## What's new in 2.2.1
+
+- New 🔄 Check for updates button in the title bar, with a green dot when an update is ready.
+
+## 2.2.0
 
 - Site survey: set the floor-plan scale in feet, continuous Walk mode, and a survey goal (Voice, Tablets & scanners, Business data, Basic/guest) with a Pass / fail map.
 - New map layers: Pass / fail, Backup AP (2nd strongest), Ping to gateway.
