@@ -1,0 +1,8 @@
+{
+  "version": "2.1.1",
+  "published": "2026-11-01",
+  "notes": "• Auto-update: AP Scout checks for new versions every 6 hours and offers to install them (checksum verified).\n• Full Exit: the ⏻ button, Settings › Exit AP Scout, or Ctrl+Q shut it down completely.\n• Group SSIDs by AP, plain-English Drops card with a Clear button, health-colored animated border on the connected card.\n• Wi-Fi driver hardware ID shown to make driver lookups easy.",
+  "exe": "https://raw.githubusercontent.com/Dialsoft/apscout-releases/main/APScout.exe",
+  "sha256": "https://raw.githubusercontent.com/Dialsoft/apscout-releases/main/APScout.exe.sha256",
+  "size": 11543040
+}
