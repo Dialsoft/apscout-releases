@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
+  "version": "2.2.0",
   "published": "2026-11-01",
-  "notes": "• Auto-update: AP Scout checks for new versions every 6 hours and offers to install them (checksum verified).\n• Full Exit: the ⏻ button, Settings › Exit AP Scout, or Ctrl+Q shut it down completely.\n• Group SSIDs by AP, plain-English Drops card with a Clear button, health-colored animated border on the connected card.\n• Wi-Fi driver hardware ID shown to make driver lookups easy.",
+  "notes": "• Site survey: set the floor-plan scale in feet, continuous Walk mode, and a survey goal (Voice, Tablets & scanners, Business data, Basic/guest) with a Pass / fail map.\n• New map layers: Pass / fail, Backup AP (2nd strongest), Ping to gateway.\n• Best practices tab: checks channels, widths, SSID count, fast roaming (802.11r/k/v), security, PMF, look-alike networks, and (with UniFi/Meraki connected) power, minimum data rates, guest isolation, firmware and offline APs. Each item explains why it matters and how to fix it.\n• Client report adds survey results with pass/fail maps for every floor, plus the best-practice review.\n• Fix: a floor plan loaded on the 2nd+ floor no longer replaces the first floor's plan.",
   "exe": "https://raw.githubusercontent.com/Dialsoft/apscout-releases/main/APScout.exe",
   "sha256": "https://raw.githubusercontent.com/Dialsoft/apscout-releases/main/APScout.exe.sha256",
-  "size": 11543040
+  "size": 11620864
 }
