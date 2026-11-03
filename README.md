@@ -4,13 +4,19 @@ Wi-Fi access point finder and troubleshooting tool for Windows, by Dialsoft LLC 
 
 ## Download
 
-**[⬇ Download AP Scout (latest)](https://github.com/Dialsoft/apscout-releases/raw/main/APScout.exe)** — current version: **2.3.1**
+**[⬇ Download AP Scout (latest)](https://github.com/Dialsoft/apscout-releases/raw/main/APScout.exe)** — current version: **2.4.0**
 
 Run it from a folder you can write to (Desktop, Downloads, or `C:\Tools`), not Program Files, so it can update itself.
 
 Once installed, AP Scout checks this page every 6 hours and offers new versions automatically. Each update is verified against `APScout.exe.sha256` before it installs.
 
-## What's new in 2.3.1
+## What's new in 2.4.0
+
+- 🗂 Site documentation that fills itself in (IP plan, VLANs, SSIDs, APs with switch ports), as PDF or text.
+- 📚 Step-by-step UniFi & Meraki how-to guides with "confirm it worked" checks, plus a guest isolation test.
+- 🔄 Re-check button on Best practices.
+
+## 2.3.1
 
 - Site tabs have an × to remove a site you don't need.
 
